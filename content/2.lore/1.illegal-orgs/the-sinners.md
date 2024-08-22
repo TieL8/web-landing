@@ -8,7 +8,7 @@ navigation: true
 
 # The Sinners
 
-![The Sinners](https://media.discordapp.net/attachments/1003615963721248820/1200771871323459734/image.png)
+![The Sinners](https://cdn.discordapp.com/attachments/1167423744743055382/1264296007705821194/image.png?ex=66c833a9&is=66c6e229&hm=8a541b81a8aa8b9739e3cdc22d42ad3f999e1fb1e5086afd516f4e47f9b77481&)
 
 ## The Tale of the Sinners
 
